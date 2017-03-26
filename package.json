@@ -16,19 +16,19 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "async": "^1.5.2",
-    "chalk": "^1.0.0",
-    "gulp-rename": "^1.2.0",
+    "async": "1.5.2",
+    "chalk": "1.0.0",
+    "gulp-rename": "1.2.0",
     "imagemin": "4.0.0",
-    "pretty-bytes": "^3.0.1"
+    "pretty-bytes": "3.0.1"
   },
   "devDependencies": {
-    "grunt": "^1.0.0",
-    "grunt-contrib-clean": "^1.0.0",
-    "grunt-contrib-internal": "^1.1.0",
-    "grunt-contrib-jshint": "^1.0.0",
-    "grunt-contrib-nodeunit": "^1.0.0",
-    "time-grunt": "^1.1.0"
+    "grunt": "1.0.0",
+    "grunt-contrib-clean": "1.0.0",
+    "grunt-contrib-internal": "1.1.0",
+    "grunt-contrib-jshint": "1.0.0",
+    "grunt-contrib-nodeunit": "1.0.0",
+    "time-grunt": "1.1.0"
   },
   "keywords": [
     "gruntplugin",
